@@ -17,7 +17,7 @@ namespace SatrancTahtasi
             InitializeComponent();
         }
 
-        //Formu kaplayacak şekilde 1 panel oluşturdum.Panele çift tıkladım.Yazdığım kodlarla kareler kendiliğinden oluştu.
+        
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
             for (int i = 0; i < 8; i++)
