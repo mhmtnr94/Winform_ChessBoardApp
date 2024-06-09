@@ -1,0 +1,10 @@
+C:\Workspace\SatrancTahtasi\SatrancTahtasi\SatrancTahtasi\bin\Debug\SatrancTahtasi.exe.config
+C:\Workspace\SatrancTahtasi\SatrancTahtasi\SatrancTahtasi\bin\Debug\SatrancTahtasi.exe
+C:\Workspace\SatrancTahtasi\SatrancTahtasi\SatrancTahtasi\bin\Debug\SatrancTahtasi.pdb
+C:\Workspace\SatrancTahtasi\SatrancTahtasi\SatrancTahtasi\obj\Debug\SatrancTahtasi.csproj.AssemblyReference.cache
+C:\Workspace\SatrancTahtasi\SatrancTahtasi\SatrancTahtasi\obj\Debug\SatrancTahtasi.FrmSatrancTahtasi.resources
+C:\Workspace\SatrancTahtasi\SatrancTahtasi\SatrancTahtasi\obj\Debug\SatrancTahtasi.Properties.Resources.resources
+C:\Workspace\SatrancTahtasi\SatrancTahtasi\SatrancTahtasi\obj\Debug\SatrancTahtasi.csproj.GenerateResource.cache
+C:\Workspace\SatrancTahtasi\SatrancTahtasi\SatrancTahtasi\obj\Debug\SatrancTahtasi.csproj.CoreCompileInputs.cache
+C:\Workspace\SatrancTahtasi\SatrancTahtasi\SatrancTahtasi\obj\Debug\SatrancTahtasi.exe
+C:\Workspace\SatrancTahtasi\SatrancTahtasi\SatrancTahtasi\obj\Debug\SatrancTahtasi.pdb
